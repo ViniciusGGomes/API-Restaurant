@@ -17,6 +17,10 @@ Uma API eficiente e organizada para o controle de mesas, produtos e pedidos em r
 
 > ![Captura de tela do projeto](./img/api_restaurant.png)
 
+## 🚀 Estrutura do Banco de Dados
+
+> ![Estrutura do Banco de Dados](./img/deepseek_mermaid_20250424_3d5558.png)
+
 ---
 
 ## 🔥 Funcionalidades
